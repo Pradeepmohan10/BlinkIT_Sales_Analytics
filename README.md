@@ -131,7 +131,6 @@ git clone https://github.com/yourusername/BlinkIT-Sales-Analytics.git
 
 ---
 
----
 
 ## **Contact**
 
@@ -139,5 +138,7 @@ git clone https://github.com/yourusername/BlinkIT-Sales-Analytics.git
 
 Integrated M.Tech Software Engineering
 VIT Vellore
+
+---
 
 ### **If you found this project useful, don’t forget to ⭐ star the repository!**
